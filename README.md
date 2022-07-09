@@ -1,16 +1,7 @@
 Hi there 👋
-I'm currently a student at the Vellore Institute of Technology, Chennai.
-📖 I'm studying Computer Science Engineering with spl in AI/ML.
-🌱 I'm currently learning C, C++, and Javascript.
+- I'm currently a student at the Vellore Institute of Technology, Chennai.
+- 📖 I'm studying Computer Science Engineering with spl in AI/ML.
+- 🌱 I'm experienced with languages such as python, C, C++ and HTML/ CSS.
+- 🔭 I’m currently working on building a webportfolio
+- :innocent: I'm working as freelancer in grpahic and UI/UX designing.
 
-
-
-💬 Ask me about anything here
-🔭 I’m currently working on 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
