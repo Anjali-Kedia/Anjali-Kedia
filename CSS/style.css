@@ -255,9 +255,34 @@
     padding-top: 100px;
 }
 .grid{
-    height: fit-content;
-    
+    height: 300px;
+    width:400px;
+    margin-left: 50px;
+
 }
+.grid h4{
+    height: fit-content;
+}
+.grid_one{
+    background-color: #FFDDDB;
+}
+.grid_two{
+    background-color: #FFDDDB;
+
+}
+.grid_three{
+    background-color: #FFDDDB;
+}
+.grid_four{
+    background-color: #FFDDDB;
+}
+.grid_five{
+    background-color: #FFDDDB;
+}
+.grid_six{
+    background-color: #FFDDDB;
+}
+
 .contact{
     background-color: black;
     height: 100%;
@@ -274,3 +299,4 @@ footer{
     height: fit-content;
     background-color: black;
 }
+
