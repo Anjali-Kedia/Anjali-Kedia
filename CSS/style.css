@@ -253,10 +253,12 @@
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(2,1fr);
     padding-top: 100px;
+
 }
 .grid{
+   
     height: 300px;
-    width:400px;
+    width:350px;
     margin-left: 50px;
 
 }
@@ -282,21 +284,29 @@
 .grid_six{
     background-color: #FFDDDB;
 }
-
+.show_more{
+    margin-left: 200px;
+    height: fit-content;
+}
 .contact{
     background-color: black;
     height: 100%;
+   
 }
 .contact h3 ,
 .contact h2 ,
 .contact p{
     height: fit-content;
+    text-align: center;
+    line-height: 100px;
 }
 .contact .hello{
     height: fit-content;
+    margin-left: 680px;
 }
 footer{
     height: fit-content;
     background-color: black;
+    text-align: center;
 }
 
