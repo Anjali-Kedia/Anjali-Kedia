@@ -3,5 +3,5 @@ Hi there 👋
 - 📖 I'm studying Computer Science Engineering with spl in AI/ML.
 - 🌱 I'm experienced with languages such as python, C, C++ and HTML/ CSS.
 - 🔭 I’m currently working towards Full Stack Development.
-- :innocent: I'm working as freelancer in grpahic and UI/UX designing.
+- :innocent: I'm working as freelancer in graphic and UI/UX designing.
 
