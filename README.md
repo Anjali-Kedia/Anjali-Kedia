@@ -64,4 +64,5 @@
   <br/>
   </p>
 </details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjali-Kedia&label=Profile%20views&color=abcdef&style=flat" alt="Anjali-Kedia" /> </p>
   
